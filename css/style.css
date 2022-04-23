@@ -1,0 +1,116 @@
+.main{
+    background-color: #ecf1f5;
+    height: 60vh;
+    text-align: center;
+    background: url("https://via.placeholder.com/1950x500");
+}
+nav div{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+nav div p{
+    padding-left: 5vh;
+}
+.links{
+    padding-right: 5vh;
+}
+nav li{
+    padding-left: 2vh;
+}
+nav a{
+    font-size: 2.8vh;
+    color: #374755;
+}
+.jumbocon{
+    padding-top: 15vh;
+}
+
+div h1{
+    color: #374755;
+    font-size: 5vh;
+}
+
+div p{
+    color: #798da4;
+    font-size: 3.5vh;
+}
+
+.speakers{
+    text-align: center;
+    padding-top: 10vh;
+
+}
+section h1{
+    color: #374755;
+    font-size: 5vh;
+}
+
+section p{
+    color: #374754;
+}
+
+.col-3 h3{
+    color: #374755;
+    font-size: 3.5vh;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.col-3 p{
+    font-size: 2.5vh;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.ticket{
+    text-align: center;
+    padding-top: 15vh;
+}
+
+.ticket p{
+    font-size: 25px;
+    padding-top: 5vh;
+}
+
+ .btn{
+    font-size: 2vh;
+    padding: 2vh 5vh;
+    background-color: #374755;
+    color: white;
+}
+
+.line{
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+
+}
+
+.venue h1{
+    padding-bottom: 6vh;
+}
+
+.venue p{
+    padding-bottom: 7vh;
+    padding-right: 2vh;
+}
+
+.map{
+    margin: 0;
+    padding: 0;
+}
+.line2{
+margin-top: 8vh;
+
+}
+footer{
+    padding-bottom: 5vh;
+}
+.footer-r{
+text-align: left;
+
+}
+
+.fa-brands{
+padding-right: 20px;
+
+}
